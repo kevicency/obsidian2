@@ -41,8 +41,8 @@ execute "hi Type guifg="        . s:Colors[9]  . " guibg=" . s:Colors[12]
 execute "hi Underline guifg="   . s:Colors[10] . " guibg=" . s:Colors[12]
 
 " Groups
-execute "hi Cursor guifg="      . s:Colors[8]  . " guibg=" . s:Colors[4]
-execute "hi CursorIM guifg="    . s:Colors[7]  . " guibg=" . s:Colors[4]
+execute "hi Cursor guifg="      . s:Colors[12] . " guibg=" . s:Colors[5]
+execute "hi CursorIM guifg="    . s:Colors[7]  . " guibg=" . s:Colors[5]
 execute "hi CursorLine guifg=NONE guibg=" . s:Colors[13]
 execute "hi CursorColumn guifg=". s:Colors[1]  . " guibg=" . s:Colors[13]
 execute "hi Directory guifg="   . s:Colors[10] . " guibg=" . s:Colors[12]
