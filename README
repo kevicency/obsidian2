@@ -1,5 +1,5 @@
-Vim Obsidian2 Color theme based on Notepad++ obsidian theme color
+Obsidian2 Vim Color scheme based on Notepad++ Obsidian Color scheme
 
-Author: Aydar Khabibullin
+Author: Aydar Khabibullin <aydar.kh@gmail.com>
 
 Installing: Just put obsidian2.vim in ~/.vim/colors/
