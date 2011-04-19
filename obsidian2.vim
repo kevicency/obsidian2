@@ -1,5 +1,5 @@
 " Vim color file
-" Name: Obsidian
+" Name: Obsidian2
 " Maintainer: Aydar Khabibullin <aydar.kh@gmail.com>
 " Version: 0.5
 " Date: 01/30/2011 12:35:30 AM
