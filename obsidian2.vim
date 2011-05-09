@@ -16,7 +16,7 @@ let s:Colors = [
 \'#ffcd22','#ec7600','#ff8409',
 \'#e8e2b7','#d39745','#66747b',
 \'#678cb1','#5899c0','#5ab9be',
-\'#293134','#2f393c','#f3db2e']
+\'#1A252A','#2f393c','#f3db2e']
 
 " Syntax
 execute "hi Normal  guifg="     . s:Colors[1]  . " guibg=" . s:Colors[12]
