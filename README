@@ -1,3 +1,5 @@
+Moved the .vim file in the color directory s.t. it works with pathogen
+
 Obsidian2 Vim Color scheme based on Notepad++ Obsidian Color scheme
 
 Author: Aydar Khabibullin <aydar.kh@gmail.com>
